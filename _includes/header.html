@@ -1,7 +1,7 @@
 <div id="page-wrapper">
 
 			<!-- Header -->
-				<header id="header">
+				<header id="header" {% if page.url == "/index.html" %} class="alt"{% endif %}>
 					<h1><a href="index.html">Alpha</a> by HTML5 UP</h1>
 					{% include menu.html %}
 				</header>
