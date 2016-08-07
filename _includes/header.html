@@ -6,10 +6,23 @@
 					{% include menu.html %}
 				</header>
 
+
+{% if page.url == "/index.html" %}
+			<!-- Banner -->
+				<section id="banner">
+					<h2>{{ site.title }}</h2>
+					<p>{{ site.description }}</p>
+					<ul class="actions">
+						<li><a href="#" class="button special">Sign Up</a></li>
+						<li><a href="#" class="button">Learn More</a></li>
+					</ul>
+				</section>
+{% else %}
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
 						<h2>Generic</h2>
 						<p>A generic page for every non-generic situation.</p>
 					</header>
+{% endif %}
 					<div class="box">
