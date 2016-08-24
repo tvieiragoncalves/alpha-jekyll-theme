@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Alpha" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/alpha.jpg "Alpha Theme")
+![Alpha Theme](images/alpha.jpg "Alpha Theme")
 
 # How to Use
 
