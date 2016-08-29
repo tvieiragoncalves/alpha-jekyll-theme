@@ -9,7 +9,7 @@
 title: Alpha
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Alpha theme by HTML5 UP.
-baseurl: "/Alpha-Jekyll-Theme" # the subpath of your site, e.g. /blog
+baseurl: "/alpha-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
