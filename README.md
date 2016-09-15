@@ -1,4 +1,4 @@
-# Alpha - Jekyll Theme
+# Alpha - Jekyll Theme (work in progress)
 
 A Jekyll version of the "Alpha" theme by [HTML5 UP](https://html5up.net/).
 
